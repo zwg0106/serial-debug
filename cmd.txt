@@ -1,0 +1,2 @@
+pyuic5 -o D:\E7\private\QT\串口调试助手\serial_debug.py D:\E7\private\QT\串口调试助手\serial_debug.ui
+pyinstaller --onefile --windowed --name 串口调试助手 --icon=serial.ico main.py --workpath C:\users\azhu\
